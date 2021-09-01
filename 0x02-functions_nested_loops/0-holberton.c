@@ -1,5 +1,8 @@
 #include "main.h"
-/*main prints Holberton*/
+/*
+ *main - Print Holberton
+ *Return: Always (0)
+ */
 int main(void)
 {
 	char *c = "Holberton";
